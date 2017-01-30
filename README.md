@@ -1,4 +1,4 @@
-# GeckoJava
+# GeckoDecaf
 A Java library for using TCP gecko
 
 ### Warning
